@@ -40,7 +40,6 @@ TODO add gif
 This extension has the following settings:
 
 * `vscode-exports-autocomplete.enable`: enable/disable this extension
-* `vscode-exports-autocomplete.addImportsOnPaste`: set this to false when you're annoyed by import tokens being added on paste
 * `vscode-exports-autocomplete.minimumWordLengthToImportOnPaste`: set this to a higher value if 'on paste' is too aggressive for you
 * `vscode-exports-autocomplete.enableNpmDependencies`: set this to false when you're annoyed by the stuff you get from your npm modules*
 * `vscode-exports-autocomplete.addSpacingAroundCurlyBraces`: set this to true when you prefer spaces around curly braces
