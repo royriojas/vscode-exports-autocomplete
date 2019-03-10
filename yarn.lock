@@ -122,10 +122,10 @@
   dependencies:
     arrify "^1.0.1"
 
-"@royriojas/get-exports-from-file@^0.6.1":
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/@royriojas/get-exports-from-file/-/get-exports-from-file-0.6.1.tgz#c5ce8363ac568d7aec2adafca8f38f9f16ee1f86"
-  integrity sha512-Et7Z8LFE5BPVtD4Zputu1gz7eoSGTcu/nK396PJEg92dsCPp+drUgsEyTMy3eUoRNNZQzQLC9XQdfK2bpz6IOA==
+"@royriojas/get-exports-from-file@^0.6.2":
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/@royriojas/get-exports-from-file/-/get-exports-from-file-0.6.2.tgz#a6b54e2cb5d77f5324182f66c08903fbfb892c56"
+  integrity sha512-MvB+1QnUuDjCgFw0oj/2X4vTEHYNhpQo5VnfaiKz7yykULagTNr3bECtbV+jdi7wKsxLGPLt00naZFgzd/O4lA==
   dependencies:
     "@babel/parser" "7.3.4"
     "@babel/traverse" "7.3.4"

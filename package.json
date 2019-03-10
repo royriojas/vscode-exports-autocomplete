@@ -115,7 +115,7 @@
   "dependencies": {
     "@babel/parser": "7.3.4",
     "@babel/traverse": "7.3.4",
-    "@royriojas/get-exports-from-file": "^0.6.1",
+    "@royriojas/get-exports-from-file": "^0.6.2",
     "co": "^4.6.0",
     "jest-changed-files": "17.0.2",
     "keep-it-small": "^0.1.0",
