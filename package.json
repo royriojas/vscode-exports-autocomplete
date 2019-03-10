@@ -2,7 +2,7 @@
   "name": "vscode-exports-autocomplete",
   "displayName": "exports autocomplete",
   "description": "autocompletes javascript module exports from your project",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "publisher": "royriojas",
   "engines": {
     "vscode": "^1.5.0"
@@ -115,7 +115,7 @@
   "dependencies": {
     "@babel/parser": "7.3.4",
     "@babel/traverse": "7.3.4",
-    "@royriojas/get-exports-from-file": "0.6.0",
+    "@royriojas/get-exports-from-file": "^0.6.1",
     "co": "^4.6.0",
     "jest-changed-files": "17.0.2",
     "keep-it-small": "^0.1.0",
