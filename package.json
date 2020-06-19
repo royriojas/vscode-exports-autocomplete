@@ -21,7 +21,7 @@
     "exports",
     "auto import"
   ],
-  "icon": "images/icon.png",
+  "icon": "./images/icon.png",
   "activationEvents": [
     "onLanguage:javascript",
     "onLanguage:javascriptreact"
@@ -113,9 +113,9 @@
     ]
   },
   "dependencies": {
-    "@babel/parser": "7.4.5",
-    "@babel/traverse": "7.4.5",
-    "@royriojas/get-exports-from-file": "1.1.0",
+    "@babel/parser": "^7.10.2",
+    "@babel/traverse": "^7.10.1",
+    "@royriojas/get-exports-from-file": "^1.4.1",
     "co": "^4.6.0",
     "jest-changed-files": "17.0.2",
     "keep-it-small": "^0.1.0",
