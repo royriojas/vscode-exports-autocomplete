@@ -2,7 +2,7 @@
   "name": "vscode-exports-autocomplete",
   "displayName": "exports autocomplete",
   "description": "autocompletes javascript module exports from your project",
-  "version": "0.5.9",
+  "version": "0.5.11",
   "publisher": "royriojas",
   "engines": {
     "vscode": "^1.5.0"
@@ -21,10 +21,11 @@
     "exports",
     "auto import"
   ],
-  "icon": "./images/icon.png",
+  "icon": "images/icon.png",
   "activationEvents": [
     "onLanguage:javascript",
-    "onLanguage:javascriptreact"
+    "onLanguage:javascriptreact",
+    "onLanguage:typescript"
   ],
   "main": "./bootstrap",
   "contributes": {
